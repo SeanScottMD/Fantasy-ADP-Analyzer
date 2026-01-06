@@ -24,13 +24,13 @@ contain redistributed raw data.
 
 ## Repository Structure
 
-`fantasy-adp-analyzer/
+``fantasy-adp-analyzer/
 ├── data/           # Data ingestion and processing
 ├── notebooks/      # Exploratory analysis
 ├── src/            # Core pipeline code
 ├── outputs/        # Tables and figures
 ├── README.md
-└── requirements.txt`
+└── requirements.txt``
 
 ## Methodology
 *(To be completed)*
