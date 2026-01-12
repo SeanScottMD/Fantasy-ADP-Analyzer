@@ -26,7 +26,7 @@ contain redistributed raw data.
 ### Source Attribution
 **Player statistics:** Pro-Football-Reference (Passing, Rushing, Receiving, Defense, and Kicking for the 2023-2025 seasons)
 
-**ADP data:** FantasyPros
+**ADP data:** FantasyPros (ADP averaged from that of ESPN, Sleeper, CBS, NFL, RTSPORTS, and FANTRAX)
 
 **Injury history:** Pro-Football_Reference
 
@@ -50,6 +50,17 @@ fantasy-adp-analyzer/
 
 ## Limitations
 *(To be completed)*
+This analysis is conducted for leagues using **PPR Scoring** (points-per-reception) format. Leagues with different scoring settings will likely have variations on the fantasy points awarded to players over the course of the season. As such, point totals from player to player may vary, resulting in an altered ADP.
+
+Below is the PPR scoring utilized in this analysis (from Pro-Football-Reference):
+*1 point per 25 yards passing
+*4 points per passing touchdown
+*-2 points per interception thrown
+*1 point per reception
+*1 point per 10 yards rushing/receiving
+*6 points per TD
+*2 points per two-point conversion
+*-2 points per fumble lost (est. prior to 1994)
 
 ## Future improvements
 *(To be completed)*
