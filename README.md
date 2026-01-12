@@ -11,6 +11,7 @@ The goal is to provide data-driven insights that support draft decision-making b
 ADP reflects end-users' collective ranking of NFL players during fantasy football drafts. While the ADP statistic is generally predictive of fantasy players' success, it often fails to account for player volatility, injury, and contextual usage changes. This project evaluates how ADP diverges from data-driven projections, demonstrating limitations to this widely used statistic.
 
 ## Data Sources
+### Data Availability & Licensing
 
 This project uses publicly available fantasy football datasets from third-party providers
 (e.g., ADP, historical player statistics, and injury data).
@@ -21,6 +22,11 @@ can be reproduced using user-supplied datasets.
 
 Any outputs included in this repository (tables or figures) are derived summaries and do not
 contain redistributed raw data.
+
+### Source Attribution
+**Player statistics:** Pro-Football-Reference (Passing, Rushing, Receiving, Defense, and Kicking for the 2023-2025 seasons)
+**ADP data:** FantasyPros
+**Injury history:** Pro-Football_Reference
 
 ## Repository Structure
 
