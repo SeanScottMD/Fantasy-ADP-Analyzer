@@ -25,7 +25,9 @@ contain redistributed raw data.
 
 ### Source Attribution
 **Player statistics:** Pro-Football-Reference (Passing, Rushing, Receiving, Defense, and Kicking for the 2023-2025 seasons)
+
 **ADP data:** FantasyPros
+
 **Injury history:** Pro-Football_Reference
 
 ## Repository Structure
