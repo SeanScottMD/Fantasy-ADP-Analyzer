@@ -26,9 +26,11 @@ contain redistributed raw data.
 ### Source Attribution
 **Player statistics:** Pro-Football-Reference (Passing, Rushing, Receiving, Defense, and Kicking for the 2023-2025 seasons)
 
-**ADP data:** FantasyPros (ADP averaged from that of ESPN, Sleeper, CBS, NFL, RTSPORTS, and FANTRAX)
+**ADP data:** FantasyPros (ADP averaged from that of ESPN, Sleeper, CBS, NFL, RTSports, and Fantrax. PPR scoring for the 2023, 2024, and 2025 seasons)
 
 **Injury history:** Pro-Football_Reference
+
+**Snap percentages:** FantasyPros (2023, 2024, and 2025 seasons)
 
 ## Repository Structure
 
